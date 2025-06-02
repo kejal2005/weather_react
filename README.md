@@ -53,7 +53,7 @@ A modern weather application built with React and Vite that provides real-time w
 ## Images
 
 ### 🏠 Home Page  
-![Home Page](./assets/images/homepage.png)
+![Home Page](https://github.com/kejal2005/weather_react/blob/bfb74e52fc2488cb0cd0c004e6e21a55b0544c0a/Screenshot%202025-06-02%20114745.png)
 
 ### 🔍 Search Functionality  
 ![Search](./assets/images/search.png)
