@@ -58,15 +58,6 @@ A modern weather application built with React and Vite that provides real-time w
 
    The application will be available at `http://localhost:5173`
 
-
-### 🔍 Search Functionality  
-![Search](./assets/images/search.png)
-
-### 👕 Clothing Suggestions  
-![Clothing Suggestions](./assets/images/clothing.png)
-
-> 📸 Replace the image paths (`./assets/images/...`) with the actual locations of your screenshots.
-
 ## Available Scripts
 
 - `npm run dev` - Start development server  
