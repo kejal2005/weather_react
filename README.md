@@ -2,6 +2,10 @@
 
 A modern weather application built with React and Vite that provides real-time weather information for any location.
 
+### 🏠 Home Page  
+![Home Page](https://github.com/kejal2005/weather_react/blob/bfb74e52fc2488cb0cd0c004e6e21a55b0544c0a/Screenshot%202025-06-02%20114745.png)
+
+
 ## Features
 
 - Real-time weather data  
@@ -10,6 +14,10 @@ A modern weather application built with React and Vite that provides real-time w
 - Modern and intuitive user interface  
 - Search functionality for different locations  
 - 🌍 **Localization of languages** for a personalized experience  
+
+### 🔍 Search Functionality  
+![Localization of languages](./assets/images/search.png)
+
 - 👕 **Clothing suggestions** based on current weather conditions  
 
 ## Tech Stack
@@ -50,10 +58,6 @@ A modern weather application built with React and Vite that provides real-time w
 
    The application will be available at `http://localhost:5173`
 
-## Images
-
-### 🏠 Home Page  
-![Home Page](https://github.com/kejal2005/weather_react/blob/bfb74e52fc2488cb0cd0c004e6e21a55b0544c0a/Screenshot%202025-06-02%20114745.png)
 
 ### 🔍 Search Functionality  
 ![Search](./assets/images/search.png)
