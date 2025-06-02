@@ -16,7 +16,7 @@ A modern weather application built with React and Vite that provides real-time w
 - 🌍 **Localization of languages** for a personalized experience  
 
 ### 🔍 Search Functionality  
-![Localization of languages](./assets/images/search.png)
+![Localization of languages](https://github.com/kejal2005/weather_react/blob/49fb66498ecf184c2f58347ee345c51042101ffb/Screenshot%202025-06-02%20114805.png)
 
 - 👕 **Clothing suggestions** based on current weather conditions  
 
