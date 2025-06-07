@@ -1,6 +1,6 @@
 # Weather App
 
-A modern weather application built with React and Vite that provides real-time weather information for any location.
+A modern weather application built with React and Vite that provides real-time weather information and gives clothing suggestions for any location.
 
 ### 🏠 Home Page  
 ![Home Page](https://github.com/kejal2005/weather_react/blob/bfb74e52fc2488cb0cd0c004e6e21a55b0544c0a/Screenshot%202025-06-02%20114745.png)
