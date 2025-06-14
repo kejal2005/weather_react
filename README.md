@@ -94,4 +94,4 @@ This project is licensed under the ISC License.
 ## Acknowledgments
 
 - Weather data provided by [OpenWeatherMap API](https://openweathermap.org/api)  
-- Icons and UI components from various open-source libraries  
+- Icons and UI components from various open-source libraries.
